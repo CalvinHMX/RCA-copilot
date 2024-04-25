@@ -1,0 +1,6 @@
+{
+    "inject_time": "2022-08-23 12:01:25",
+    "inject_timestamp": "1661256085",
+    "inject_pod": "frontend-579b9bff58-t2dbm",
+    "inject_type": "cpu_contention"
+}
